@@ -43,5 +43,5 @@ I built this from home without access to real field data, purely as a learning e
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/amazon-digital-restoration-twin.git
+   git clone https://github.com/<NDELEH/amazon-digital-restoration-twin.git
    cd amazon-digital-restoration-twin
