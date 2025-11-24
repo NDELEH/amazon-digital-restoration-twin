@@ -7,7 +7,7 @@ Link to the Lancaster University news article:
 [Human impact on Amazon forests is transforming its ecological functions and evolutionary history](https://www.lancaster.ac.uk/news/human-impact-on-amazon-forests-is-transforming-its-ecological-functions-and-evolutionary-history)
 
 **Author:**  
-[Your Name] – Independent student / learner  
+NDELEH – Independent student / learner  
 
 > ⚠️ **Disclaimer:**  
 > This proposal is a **personal, exploratory idea** created by a student/independent learner.  
