@@ -4,6 +4,10 @@
 > This is a **student / independent sample project** using **synthetic data only**.  
 > It is **not an official Lancaster University project**, but is **inspired by** their research on how human disturbances are transforming Amazon forest ecology and evolutionary history.
 
+![Status](https://img.shields.io/badge/status-concept--prototype-blue)
+![Python](https://img.shields.io/badge/python-3.10+-green)
+![Synthetic Data](https://img.shields.io/badge/data-synthetic-orange)
+
 ## Background & Inspiration
 
 This project is a small, home-built attempt to explore an idea inspired by recent work from researchers at Lancaster University and collaborators on how logging, fire and other disturbances affect the **species**, **functional**, and **evolutionary** diversity of Amazonian forests.
